@@ -180,15 +180,15 @@ a.social {
   color: #00adb5;
 }
 a.hotmail {
-  background-image: url(images/hotmail.png);
+  background-image: url(hotmail.png);
   background-color: #393e46
 }
 a.linkedin {
-  background-image: url(images/linkedin.svg);
+  background-image: url(linkedin.svg);
 
 }
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url(github.svg);
 
 }
 a.social:hover {
